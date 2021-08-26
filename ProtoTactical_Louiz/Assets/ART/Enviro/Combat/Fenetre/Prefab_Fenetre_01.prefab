@@ -59,7 +59,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 670224309865224971, guid: db920123bbd3b0f4b82ddae594455077, type: 3}
+  - {fileID: 2100000, guid: 41a64dc86191b08468b596adcadbd1aa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -140,7 +140,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 1066004062436469698, guid: db920123bbd3b0f4b82ddae594455077, type: 3}
+  - {fileID: 2100000, guid: 4e97d050b822d7c4ba8727603707dd37, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -172,7 +172,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6887268553545143392}
   m_Layer: 0
-  m_Name: M_Fenetre_01
+  m_Name: Prefab_Fenetre_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

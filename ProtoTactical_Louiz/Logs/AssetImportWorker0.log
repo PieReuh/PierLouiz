@@ -15,11 +15,11 @@ D:/multimedia/Documents/Autre/LégendesUrbaines/Projet/ProtoTactical_Louiz
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61360
+58382
 Successfully changed project path to: D:/multimedia/Documents/Autre/LégendesUrbaines/Projet/ProtoTactical_Louiz
 D:/multimedia/Documents/Autre/LégendesUrbaines/Projet/ProtoTactical_Louiz
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 30.67 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 53.63 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
@@ -35,393 +35,528 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/2020.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56120
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56724
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005287 seconds.
+Registered in 0.005419 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 33.92 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 39.18 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.617 seconds
+- Completed reload, in  2.016 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001027 seconds.
+Registered in 0.001136 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.152 seconds
+- Completed reload, in  1.332 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1074 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 55.6 MB.
-System memory in use after: 55.6 MB.
+System memory in use before: 56.0 MB.
+System memory in use after: 56.0 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1513.
-Total: 2.296400 ms (FindLiveObjects: 0.318400 ms CreateObjectMapping: 0.089900 ms MarkObjects: 1.790700 ms  DeleteObjects: 0.095900 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scenes/New Folder
-  artifactKey: Guid(1d337274a8919d94e9e614bc20f83f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/New Folder using Guid(1d337274a8919d94e9e614bc20f83f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79faf5afda7f2fe3f9b24e5c71557007') in 0.009038 seconds
-  Import took 0.012032 seconds .
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1516.
+Total: 3.023600 ms (FindLiveObjects: 0.252500 ms CreateObjectMapping: 0.079500 ms MarkObjects: 2.601800 ms  DeleteObjects: 0.087500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.401419 seconds.
-  path: Assets/Scenes/GA
-  artifactKey: Guid(1d337274a8919d94e9e614bc20f83f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/GA using Guid(1d337274a8919d94e9e614bc20f83f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0c84ddcd4813c190098e812d93830a') in 0.007606 seconds
-  Import took 0.011103 seconds .
+  path: Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab
+  artifactKey: Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab using Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f5dd4d02ab9b9a440e90490f7321480') in 0.647671 seconds
+  Import took 0.650242 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 13.080962 seconds.
-  path: Assets/Scenes/GA/SceneGA01.unity
-  artifactKey: Guid(e8547474136406846a529f02bad473ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/GA/SceneGA01.unity using Guid(e8547474136406846a529f02bad473ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1e907a0409e7d690bd13d009fe37b7') in 0.020278 seconds
-  Import took 0.023405 seconds .
+  Time since last request: 0.001013 seconds.
+  path: Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.fbx
+  artifactKey: Guid(2c1ba2908297f474cace8cca7e1ec397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.fbx using Guid(2c1ba2908297f474cace8cca7e1ec397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0c9da261c7c01c1a9c37cf0a6d75a28') in 0.567314 seconds
+  Import took 0.569994 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.537002 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a2c4dac9df7c17871e19a3b74f0e9f') in 0.007214 seconds
-  Import took 0.010306 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001516 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a2c4dac9df7c17871e19a3b74f0e9f') in 0.005985 seconds
-  Import took 0.008615 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.975762 seconds.
+  Time since last request: 18.362777 seconds.
   path: Assets/ART
   artifactKey: Guid(8a88000db113bc443bd0cd96bef8c13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART using Guid(8a88000db113bc443bd0cd96bef8c13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9682adfc9f9114064c0c4a79fe7e41') in 0.010047 seconds
-  Import took 0.014620 seconds .
+Start importing Assets/ART using Guid(8a88000db113bc443bd0cd96bef8c13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9682adfc9f9114064c0c4a79fe7e41') in 0.009320 seconds
+  Import took 0.012462 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.802841 seconds.
-  path: Assets/ART/Enviro
-  artifactKey: Guid(8a9367d7340cbb2469449fec136a8cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro using Guid(8a9367d7340cbb2469449fec136a8cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775b597bee9841a6a915f5b6aedc8522') in 0.008940 seconds
-  Import took 0.011284 seconds .
+  Time since last request: 0.013183 seconds.
+  path: Assets/ART
+  artifactKey: Guid(8a88000db113bc443bd0cd96bef8c13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART using Guid(8a88000db113bc443bd0cd96bef8c13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9682adfc9f9114064c0c4a79fe7e41') in 0.005569 seconds
+  Import took 0.008363 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.100979 seconds.
-  path: Assets/ART/Enviro/Combat
-  artifactKey: Guid(878fa4bec1bc80c4e8738ab1136406f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat using Guid(878fa4bec1bc80c4e8738ab1136406f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e27fe50ff927d5bbdc40313a3d97ad') in 0.010784 seconds
-  Import took 0.013541 seconds .
+  Time since last request: 3.499449 seconds.
+  path: Assets/Scenes/GA
+  artifactKey: Guid(1d337274a8919d94e9e614bc20f83f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GA using Guid(1d337274a8919d94e9e614bc20f83f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0c84ddcd4813c190098e812d93830a') in 0.006968 seconds
+  Import took 0.010672 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.002019 seconds.
-  path: Assets/ART/Enviro/Combat
-  artifactKey: Guid(878fa4bec1bc80c4e8738ab1136406f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat using Guid(878fa4bec1bc80c4e8738ab1136406f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e27fe50ff927d5bbdc40313a3d97ad') in 0.006362 seconds
-  Import took 0.008848 seconds .
+  Time since last request: 0.001262 seconds.
+  path: Assets/Scenes/GA
+  artifactKey: Guid(1d337274a8919d94e9e614bc20f83f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GA using Guid(1d337274a8919d94e9e614bc20f83f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0c84ddcd4813c190098e812d93830a') in 0.007151 seconds
+  Import took 0.010171 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.828010 seconds.
-  path: Assets/ART/Enviro/Combat/M_Fenetre_01.fbx
+  Time since last request: 0.780470 seconds.
+  path: Assets/Scenes/GA/SceneGA01.unity
+  artifactKey: Guid(e8547474136406846a529f02bad473ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GA/SceneGA01.unity using Guid(e8547474136406846a529f02bad473ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80adb32677ea103b48bfb103b4875b9f') in 0.007943 seconds
+  Import took 0.010723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001465 seconds.
+  path: Assets/Scenes/GA/SceneGA01.unity
+  artifactKey: Guid(e8547474136406846a529f02bad473ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GA/SceneGA01.unity using Guid(e8547474136406846a529f02bad473ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80adb32677ea103b48bfb103b4875b9f') in 0.006800 seconds
+  Import took 0.010134 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.023010 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 134.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.536 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Shader 'Universal Render Pipeline/Simple Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'AddPassShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapGenShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Basemap Gen)' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2315 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 104.9 MB.
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 2751.
+Total: 4.545700 ms (FindLiveObjects: 0.328300 ms CreateObjectMapping: 0.142400 ms MarkObjects: 2.091300 ms  DeleteObjects: 1.982100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 358.492465 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/M_Fenetre_01.fbx
   artifactKey: Guid(db920123bbd3b0f4b82ddae594455077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/M_Fenetre_01.fbx using Guid(db920123bbd3b0f4b82ddae594455077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe8e7a308c01c87649b0dc3c1188ec0') in 1.070376 seconds
-  Import took 1.074186 seconds .
+Start importing Assets/ART/Enviro/Combat/Fenetre/M_Fenetre_01.fbx using Guid(db920123bbd3b0f4b82ddae594455077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46d6c37fe1507df48a3d20e3369b374') in 0.158071 seconds
+  Import took 0.163809 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001270 seconds.
-  path: Assets/ART/Enviro/Combat/M_Rembarde_01.fbx
-  artifactKey: Guid(2c1ba2908297f474cace8cca7e1ec397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/M_Rembarde_01.fbx using Guid(2c1ba2908297f474cace8cca7e1ec397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79d5a83b880e0482adef014d59bb1a4') in 0.043028 seconds
-  Import took 0.046643 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001449 seconds.
-  path: Assets/ART/Enviro/Combat/M_Pillar_01.fbx
-  artifactKey: Guid(dab56dbbf98a4ab46abb2a6adbaff1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/M_Pillar_01.fbx using Guid(dab56dbbf98a4ab46abb2a6adbaff1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a901af610491c3bb8c7631dc645953e1') in 0.027548 seconds
-  Import took 0.030909 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000899 seconds.
-  path: Assets/ART/Enviro/Combat/M_Ground_01.fbx
-  artifactKey: Guid(80d86f8ce6e4f04469fd5d822c5126d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/M_Ground_01.fbx using Guid(80d86f8ce6e4f04469fd5d822c5126d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35dbdce4e6c7b84745bb2fc1a96fcaa6') in 0.049988 seconds
-  Import took 0.052534 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 161.495314 seconds.
-  path: Assets/ART/Enviro/Combat/Fenetre
-  artifactKey: Guid(efb0c90bca0e692488c7a6fd5d973593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Fenetre using Guid(efb0c90bca0e692488c7a6fd5d973593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e50902cc6280d6ac20e31e4dedc9d26') in 0.008854 seconds
-  Import took 0.012769 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.704706 seconds.
-  path: Assets/ART/Enviro/Combat/Fenetre/M_Fenetre_01.prefab
-  artifactKey: Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Fenetre/M_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48fddc4b3f4ab04e68a4990e3a6dbc1c') in 0.026482 seconds
-  Import took 0.029198 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.597540 seconds.
-  path: Assets/ART/Enviro/Combat/Fenetre/M_Fenetre_01.prefab
-  artifactKey: Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Fenetre/M_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd08dd3d068b958b51efc888b563229b') in 0.023446 seconds
-  Import took 0.027007 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 78.480921 seconds.
-  path: Assets/ART/Enviro/Combat/Ground
-  artifactKey: Guid(09961acc7ac489b44958ac4648f73ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Ground using Guid(09961acc7ac489b44958ac4648f73ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9993b29509665d12f90b087b2f63776c') in 0.017760 seconds
-  Import took 0.020565 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 49.778273 seconds.
-  path: Assets/ART/Enviro/Combat/Ground/M_Ground_01.prefab
-  artifactKey: Guid(5d970d0b89a444f4a862cb62a799c4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Ground/M_Ground_01.prefab using Guid(5d970d0b89a444f4a862cb62a799c4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e66a46e33b19780806872ccf1c49364') in 0.213600 seconds
-  Import took 0.216716 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.091598 seconds.
-  path: Assets/ART/Enviro/Combat/Ground/Prefab_Ground_01.prefab
-  artifactKey: Guid(5d970d0b89a444f4a862cb62a799c4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Ground/Prefab_Ground_01.prefab using Guid(5d970d0b89a444f4a862cb62a799c4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427df2986aec322e14f22c9be017bbe4') in 0.044533 seconds
-  Import took 0.047459 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.545502 seconds.
+  Time since last request: 0.000790 seconds.
   path: Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab
   artifactKey: Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e692c7843a64453c7b24973c252f3b84') in 0.019235 seconds
-  Import took 0.022169 seconds .
+Start importing Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e692c7843a64453c7b24973c252f3b84') in 0.019882 seconds
+  Import took 0.026002 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 161.167246 seconds.
+  Time since last request: 0.000814 seconds.
+  path: Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.fbx
+  artifactKey: Guid(2c1ba2908297f474cace8cca7e1ec397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.fbx using Guid(2c1ba2908297f474cace8cca7e1ec397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e166535d6cc8a455eba9d7bea8be4b3') in 0.049500 seconds
+  Import took 0.055427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000824 seconds.
+  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
+  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a3c4bbfea88dbd4b249883c36578e7') in 0.019483 seconds
+  Import took 0.025047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001043 seconds.
+  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.fbx
+  artifactKey: Guid(dab56dbbf98a4ab46abb2a6adbaff1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.fbx using Guid(dab56dbbf98a4ab46abb2a6adbaff1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8584dcf699b0b9fd3523fd08fe95c89c') in 0.031087 seconds
+  Import took 0.036991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000937 seconds.
+  path: Assets/ART/Enviro/Combat/Ground/Prefab_Ground_01.prefab
+  artifactKey: Guid(5d970d0b89a444f4a862cb62a799c4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Ground/Prefab_Ground_01.prefab using Guid(5d970d0b89a444f4a862cb62a799c4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a11dc122dd19310f542973abf70e85f3') in 0.049452 seconds
+  Import took 0.054018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000641 seconds.
+  path: Assets/ART/Enviro/Combat/Ground/M_Ground_01.fbx
+  artifactKey: Guid(80d86f8ce6e4f04469fd5d822c5126d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Ground/M_Ground_01.fbx using Guid(80d86f8ce6e4f04469fd5d822c5126d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8626136dd1e1b47726062be4718d111') in 0.050788 seconds
+  Import took 0.055155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.772104 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a2c4dac9df7c17871e19a3b74f0e9f') in 0.007549 seconds
+  Import took 0.014035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004539 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a2c4dac9df7c17871e19a3b74f0e9f') in 0.006320 seconds
+  Import took 0.012648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.330048 seconds.
+  path: Assets/ART/URP.asset
+  artifactKey: Guid(0a9926b793734d94ebd86c0b4e2502d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/URP.asset using Guid(0a9926b793734d94ebd86c0b4e2502d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7027d6697b36f34fdf174105e7c9f5e7') in 0.077809 seconds
+  Import took 0.085206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000831 seconds.
+  path: Assets/ART/URP_Renderer.asset
+  artifactKey: Guid(3815b313d2829f24d94ceabc72208d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/URP_Renderer.asset using Guid(3815b313d2829f24d94ceabc72208d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d33b5db9bb4ab987be2b67c5735a974') in 0.058814 seconds
+  Import took 0.065462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 155.967031 seconds.
+  path: Assets/ART/Enviro
+  artifactKey: Guid(8a9367d7340cbb2469449fec136a8cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro using Guid(8a9367d7340cbb2469449fec136a8cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775b597bee9841a6a915f5b6aedc8522') in 0.007978 seconds
+  Import took 0.013592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.283516 seconds.
+  path: Assets/ART/Enviro/Combat
+  artifactKey: Guid(878fa4bec1bc80c4e8738ab1136406f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat using Guid(878fa4bec1bc80c4e8738ab1136406f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e27fe50ff927d5bbdc40313a3d97ad') in 0.007375 seconds
+  Import took 0.013678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.331068 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre
+  artifactKey: Guid(efb0c90bca0e692488c7a6fd5d973593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre using Guid(efb0c90bca0e692488c7a6fd5d973593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e50902cc6280d6ac20e31e4dedc9d26') in 0.008899 seconds
+  Import took 0.014388 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 59 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.3 MB.
+System memory in use after: 61.1 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2772.
+Total: 4.960800 ms (FindLiveObjects: 0.474700 ms CreateObjectMapping: 0.244000 ms MarkObjects: 2.717000 ms  DeleteObjects: 1.523100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.971501 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/M_Fenetre_01.fbx
+  artifactKey: Guid(db920123bbd3b0f4b82ddae594455077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/M_Fenetre_01.fbx using Guid(db920123bbd3b0f4b82ddae594455077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b178a7beda5cc9ed7d28850909bd1611') in 0.074166 seconds
+  Import took 0.084285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001011 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Mat_Fenetre_01.mat
+  artifactKey: Guid(4e97d050b822d7c4ba8727603707dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Mat_Fenetre_01.mat using Guid(4e97d050b822d7c4ba8727603707dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720934c6f90345ead0345fc8259fe5b0') in 0.038380 seconds
+  Import took 0.045165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.790915 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab
+  artifactKey: Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34396c5d2f682ed49bd2a0fee042c35c') in 0.030742 seconds
+  Import took 0.037623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.822896 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab
+  artifactKey: Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1fec91f66fe7c8a80d84f70d1c6639') in 0.025440 seconds
+  Import took 0.032372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003890 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab
+  artifactKey: Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f1fec91f66fe7c8a80d84f70d1c6639') in 0.023014 seconds
+  Import took 0.031109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.577278 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab
+  artifactKey: Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9eb684b1b214f9ce0eca8a86e71ef1f') in 0.023169 seconds
+  Import took 0.029406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.175964 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab
+  artifactKey: Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6dd325fc5796a95298661bad62819e2') in 0.022290 seconds
+  Import took 0.029258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.842013 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab
+  artifactKey: Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b965ab4de93f10573a2a311e596bf9d') in 0.019906 seconds
+  Import took 0.025968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.001731 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Mat_Armature_01.mat
+  artifactKey: Guid(4e97d050b822d7c4ba8727603707dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Mat_Armature_01.mat using Guid(4e97d050b822d7c4ba8727603707dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cd380dd698b129e0acb1f2d3ae3734a') in 0.024700 seconds
+  Import took 0.031404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.578393 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab
+  artifactKey: Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aa887e47bdba22a70fd4463e4c83fda') in 0.029171 seconds
+  Import took 0.034984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.696691 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab
+  artifactKey: Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Prefab_Fenetre_01.prefab using Guid(59a7f7c497e7cae45947d5980b840ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25fa3c84ae9072d3069c38ed87cbab22') in 0.022358 seconds
+  Import took 0.029280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.888809 seconds.
+  path: Assets/ART/Enviro/Combat/Ground
+  artifactKey: Guid(09961acc7ac489b44958ac4648f73ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Ground using Guid(09961acc7ac489b44958ac4648f73ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9993b29509665d12f90b087b2f63776c') in 0.007325 seconds
+  Import took 0.013461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001392 seconds.
+  path: Assets/ART/Enviro/Combat/Ground
+  artifactKey: Guid(09961acc7ac489b44958ac4648f73ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Ground using Guid(09961acc7ac489b44958ac4648f73ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9993b29509665d12f90b087b2f63776c') in 0.006412 seconds
+  Import took 0.012716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035698 seconds.
+  path: Assets/ART/Enviro/Combat/Ground/M_Ground_01.fbx
+  artifactKey: Guid(80d86f8ce6e4f04469fd5d822c5126d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Ground/M_Ground_01.fbx using Guid(80d86f8ce6e4f04469fd5d822c5126d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112b3f8c2c6642c46a36c06bebaed402') in 0.033313 seconds
+  Import took 0.040115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.991319 seconds.
+  path: Assets/ART/Enviro/Combat/Ground/Mat_Ground_01.mat
+  artifactKey: Guid(3b38f67fe7700c642a0c6cbd0be4f21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Ground/Mat_Ground_01.mat using Guid(3b38f67fe7700c642a0c6cbd0be4f21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c31b12f69e83bdad9736c5e16b8c3632') in 0.024073 seconds
+  Import took 0.031361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.052711 seconds.
+  path: Assets/ART/Enviro/Combat/Ground/Prefab_Ground_01.prefab
+  artifactKey: Guid(5d970d0b89a444f4a862cb62a799c4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Ground/Prefab_Ground_01.prefab using Guid(5d970d0b89a444f4a862cb62a799c4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b58cb7b2cf018888bd14dd61eabdfd9') in 0.023734 seconds
+  Import took 0.030093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.640762 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Mat_Armature_01 1.mat
+  artifactKey: Guid(41a64dc86191b08468b596adcadbd1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Mat_Armature_01 1.mat using Guid(41a64dc86191b08468b596adcadbd1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ab3fb2053a20d0fd32abc85453a0e6') in 0.024953 seconds
+  Import took 0.030845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000816 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Mat_Vitre_01.mat
+  artifactKey: Guid(4e97d050b822d7c4ba8727603707dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Mat_Vitre_01.mat using Guid(4e97d050b822d7c4ba8727603707dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83386ad327676edcdead01ad4a5bb895') in 0.021792 seconds
+  Import took 0.027910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.528344 seconds.
   path: Assets/ART/Enviro/Combat/Pillar
   artifactKey: Guid(fc4cf4e79a887b24a9508e1c049ac35d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar using Guid(fc4cf4e79a887b24a9508e1c049ac35d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cba8820f207ba2c8c673d8d915ca342') in 0.006763 seconds
-  Import took 0.010812 seconds .
+Start importing Assets/ART/Enviro/Combat/Pillar using Guid(fc4cf4e79a887b24a9508e1c049ac35d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cba8820f207ba2c8c673d8d915ca342') in 0.008480 seconds
+  Import took 0.013237 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.541715 seconds.
+  Time since last request: 0.052927 seconds.
+  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.fbx
+  artifactKey: Guid(dab56dbbf98a4ab46abb2a6adbaff1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.fbx using Guid(dab56dbbf98a4ab46abb2a6adbaff1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a0e0194191e21351b2b3aa2f8487946') in 0.032016 seconds
+  Import took 0.037853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.029323 seconds.
+  path: Assets/ART/Enviro/Combat/Pillar/Mat_Pillar_01.mat
+  artifactKey: Guid(c6538199f5b173740b7ad1f638423c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Pillar/Mat_Pillar_01.mat using Guid(c6538199f5b173740b7ad1f638423c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c56371848085b0c4978d236897367ba') in 0.022184 seconds
+  Import took 0.028123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.996804 seconds.
+  path: Assets/ART/Enviro/Combat/Pillar/Prefab_Pillar_01.prefab
+  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Pillar/Prefab_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db690bd5a5068e673846ad465902230d') in 0.023964 seconds
+  Import took 0.030367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.805492 seconds.
+  path: Assets/ART/Enviro/Combat/Pillar/Prefab_Pillar_01.prefab
+  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Pillar/Prefab_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '756e58d5b1aa872c6732168900eefee1') in 0.025728 seconds
+  Import took 0.031111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.914668 seconds.
+  path: Assets/ART/Enviro/Combat/Pillar/Mat_Pillar_01.mat
+  artifactKey: Guid(c6538199f5b173740b7ad1f638423c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Pillar/Mat_Pillar_01.mat using Guid(c6538199f5b173740b7ad1f638423c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0261aa19fde8454135abcd4ea1a5cd5') in 0.025540 seconds
+  Import took 0.031806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.648319 seconds.
+  path: Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.fbx
+  artifactKey: Guid(2c1ba2908297f474cace8cca7e1ec397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.fbx using Guid(2c1ba2908297f474cace8cca7e1ec397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d5f819d939cfd3847e36b0af526e79') in 0.049141 seconds
+  Import took 0.054574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.232452 seconds.
+  path: Assets/ART/Enviro/Combat/Rembarde/Prefab_Rembarde_01.prefab
+  artifactKey: Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Rembarde/Prefab_Rembarde_01.prefab using Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fee59b2b721fb226b207eeb83d2d3f61') in 0.028116 seconds
+  Import took 0.032400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.259125 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Mat_Armature_01 1.mat
+  artifactKey: Guid(41a64dc86191b08468b596adcadbd1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Mat_Armature_01 1.mat using Guid(41a64dc86191b08468b596adcadbd1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2064f8932bdbfa3768b64e4d3b4e20a') in 0.015758 seconds
+  Import took 0.021809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/ART/Enviro/Combat/Fenetre/Mat_Vitre_01.mat
+  artifactKey: Guid(4e97d050b822d7c4ba8727603707dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Fenetre/Mat_Vitre_01.mat using Guid(4e97d050b822d7c4ba8727603707dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d197d16f984c10860bea5d5ce386ae3') in 0.018963 seconds
+  Import took 0.023595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.166560 seconds.
+  path: Assets/ART/Enviro/Combat/Ground/Mat_Ground_01.mat
+  artifactKey: Guid(3b38f67fe7700c642a0c6cbd0be4f21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Ground/Mat_Ground_01.mat using Guid(3b38f67fe7700c642a0c6cbd0be4f21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f33464a7caff9faadaba58e2a5af25b') in 0.020705 seconds
+  Import took 0.027355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.665830 seconds.
+  path: Assets/ART/Enviro/Combat/Pillar/Prefab_Pillar_01.prefab
+  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Enviro/Combat/Pillar/Prefab_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bda1a0f071df648139dcd2151507455') in 0.018158 seconds
+  Import took 0.022867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.534407 seconds.
   path: Assets/ART/Enviro/Combat/Rembarde
   artifactKey: Guid(8bf2b252b3997e24baa327fbe5a259d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Rembarde using Guid(8bf2b252b3997e24baa327fbe5a259d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5b7cee656706cd4fc0483fb13161b1') in 0.007214 seconds
-  Import took 0.010547 seconds .
+Start importing Assets/ART/Enviro/Combat/Rembarde using Guid(8bf2b252b3997e24baa327fbe5a259d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5b7cee656706cd4fc0483fb13161b1') in 0.007327 seconds
+  Import took 0.012425 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 79.494326 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83329437ae1475711009abd63f24c91') in 0.020538 seconds
-  Import took 0.024529 seconds .
+  Time since last request: 405.250267 seconds.
+  path: Assets/ART/URP_Renderer.asset
+  artifactKey: Guid(3815b313d2829f24d94ceabc72208d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/URP_Renderer.asset using Guid(3815b313d2829f24d94ceabc72208d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b336071fffa80dc3b783e59cd02b86e7') in 0.024202 seconds
+  Import took 0.030873 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 42.676494 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb18243b24e48c08483259b83b5d1a35') in 0.020287 seconds
-  Import took 0.023478 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.730944 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692fbe60e001ec4fb2af9563cbcbd75b') in 0.136917 seconds
-  Import took 0.139900 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.666596 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8d33b73c856062a19c68aba29fa8a34') in 0.018848 seconds
-  Import took 0.023955 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.978439 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ddd81d4cf9eab80e656ba782ed08bd6') in 0.019058 seconds
-  Import took 0.023520 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.205541 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06f34cafb7be9aa61a7585cf6e0a520') in 0.032784 seconds
-  Import took 0.035386 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.974134 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fdfe0d7344bab3537e6227ca51e044e') in 0.021786 seconds
-  Import took 0.024873 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.988597 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b353830533a65c6bf7edb9476c8416af') in 0.023436 seconds
-  Import took 0.026280 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.386316 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d7c07a41f0434ff7cf830291f81e96') in 0.018158 seconds
-  Import took 0.021246 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.790351 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb62dd1454a674638b773424dccd81c') in 0.017385 seconds
-  Import took 0.020689 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.791454 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f0f1f7fa019f2b85258390483386ff') in 0.018084 seconds
-  Import took 0.021566 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.984547 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a64cb010aae8900f50671c78f80e18b') in 0.020086 seconds
-  Import took 0.022561 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.188481 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34f1f67a876a54b090f8432cc160398d') in 0.017813 seconds
-  Import took 0.022212 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.505689 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e30bd38cc6acdee08aa88030c201c02b') in 0.020521 seconds
-  Import took 0.023945 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.170919 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be7a538bbb8f8dfc23240efc73673ca') in 0.022325 seconds
-  Import took 0.025359 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.987021 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c7a1e60744ea0f786be0f450378c99') in 0.018543 seconds
-  Import took 0.021723 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.633988 seconds.
-  path: Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab
-  artifactKey: Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Pillar/M_Pillar_01.prefab using Guid(ccfdc39006c76be4bb66d9cb2401546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be5717f1cca23af99fc46f4ac08ff71') in 0.031959 seconds
-  Import took 0.055840 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 137.645974 seconds.
-  path: Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab
-  artifactKey: Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab using Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140ed4a51868c50a0cd30b93fa5e64ef') in 0.019634 seconds
-  Import took 0.023201 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.548915 seconds.
-  path: Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab
-  artifactKey: Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab using Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198e468cc0b82f800bebdc98fabb3f24') in 0.019251 seconds
-  Import took 0.021977 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.206501 seconds.
-  path: Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab
-  artifactKey: Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab using Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228fe01ffdfb2f263b8df315312d0686') in 0.019845 seconds
-  Import took 0.022739 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.596557 seconds.
-  path: Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab
-  artifactKey: Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab using Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6a3bda84c33816ec6cc05ddada9867') in 0.019012 seconds
-  Import took 0.022233 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.002051 seconds.
-  path: Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab
-  artifactKey: Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ART/Enviro/Combat/Rembarde/M_Rembarde_01.prefab using Guid(e382278d36d0c6f4c993459f4f70c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f83e12c43c89529e73b260b5734beb68') in 0.019475 seconds
-  Import took 0.023091 seconds .
+  Time since last request: 38.720770 seconds.
+  path: Assets/ART/Lighting_Combat.lighting
+  artifactKey: Guid(0c085b147a8e50a49bc6d5acba66e7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ART/Lighting_Combat.lighting using Guid(0c085b147a8e50a49bc6d5acba66e7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72bd545282ba0244e67e005b1714c656') in 0.010653 seconds
+  Import took 0.016586 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
